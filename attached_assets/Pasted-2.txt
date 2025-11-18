@@ -1,0 +1,15 @@
+Let the Enter button be INSIDE of the chat box (and let everything inside this chat box be aligned to the middle, except if it has a height greater than 128px - in case someone types a long text for example (plus let the MAX height this chat box can be be 256px) - but in case it's more than 128px because the user typed a lot of text in it,  then let it align to the bottom with a good padding underneath it (the the same padding the placeholder text enjoys). 
+
+And let the speech button be left of it the Enter button. 
+Give the speech button 
+- a #089981 pulse when activated behind it every time the user clicks on it and let the border be a 2px 089981 + 03332B gradient. Ensure you understand how gradient borders work in css. You usually mess them up.
+
+Furthmore, the next big edits:
+There's something going on with the column alignment of the chat section I really dislike. I want to be in the middle of the screen regardless of the position of the left side bar that shows "past chats/history" etc. But if the side bar all the way on the left (so the one showing Autism capital markets) is expanded, then let it align to the middle. Either way let the "Past chats/history" side bar not influence the MIDDLE ALIGNED position of the chat box. Only the other side bar showing "Autism Capital Markets", etc.
+
+Also:
+Upgrade button on mobile doesn't show an upgrade screen. Let it show this with max 90vw and 24px border radius. Also let it give the screen behind it a blur so users focus more on upgrading. Let its background be #202020 with inline shadows, so the same style as the menu/side bar showing "Autism capital markets".
+
+One more edit:
+In "Upgrade your plan" popup when a user clicks Upgrade, why is the background behind the first "current tier free trial" not the same width as height? On the other plans it does have the same wifth as height. Very small details but nonetheless weird, so fix that.
+Remove "Press enter to send Shift _+ enter for new line" on mobile. Unless they have a keyboard attached to their device (if you can even check this and doesn't come at cost of their privacy)

@@ -1,0 +1,35 @@
+I want you to build me a dApp-Web3 application, branded as AUtism GOLD - the premise being that gold markets are currently down from ATH, but AUtism is the thing truly fueling the trenches/Pump.fun-market (a Solana crypto launchpad). I want to link this dApp with Gemini API seeing as it's free which will be the backbone AI powering the text, and image generation (I will furthermore use elevenlasb, and always want it to give separate types of answers based on whether it's an image they're requesting, and which type of character. It has 3 different characters. 1. AUrtistic AI 2. Geni-autist 3. Superautist (so send different POSTs to n8n.io and give me a clear section where I can hook it up with n8n.IO (or leave placeholders because Im going to give the app the different web hooks for which request myself)
+I'm using n8n for this automation. So hook it up to that whenever someone clicks on Enter.
+This is my Production URL 
+https://autism.app.n8n.cloud/webhook/autism-ai
+
+I want them to be able to upgrade. They get 5 free messages + 1 voice message every 4 hours (base this off cookies, IP, and even user agent).  This will be called the AUtism Free Trial.
+
+Upgrade 1: AUtism Electrum (20 messages an hour, access to continuous AI voice chatting for an hour a day 
+PRICE: IF HOLDING 100k $AU (our app-native token - no Coin Address yet but use B1oEzGes1QxVZoxR3abiwAyL4jcPRF2s2ok5Yerrpump on Solana as placeholder)
+DURATION: 14 days
+
+Upgrade 2: AUtism Pro 
+40 messages an hour. 2 hours a day
+PRICE: IF HOLDING 200k $AU
+
+
+Upgrade 3: AUtism Gold
+50 messages an hour, 4 hours a day
+PRICE: IF HOLDING 300k $AU
+
+Add a note 'prices may increase'
+
+Use this font I embedded (Be Vietnam Pro) with the equivalent to -2.4px letter spacing on 4 rem with 1 rem being 16px. So if it's 2 rem it's -1.2px letter spacing. Host it LOCALLY. Eventually I will add this to Spaceship.com domain + hosting under app.autism.gold.
+
+IMPORTANT INFO: 
+I've embedded the precise UI I want you to build. Don't steer away from what I sent you. Look at the file names to get a better understanding of what sections these are, then build based on that. Use as much flex-inline css whenever appropriate - remember I want this to be fully responsive. 
+
+CACHE ALL AUDIO AND ALL COMMUNICATION WITH THE AI COMPLETELY SECURELY & PRIVATELY. SORT THEM BY user, AND BY conversation-id, AND BY time/date. LET THE ADMIN BE ABLE TO COPY THROUGH AN ICON EVERY SINGLE AUDIO-URL (WHICH IS COMPLETELY SECURE AND INACCESSIBLE EXCEPT THROUGH ADMIN PANEL).
+
+
+LET ME BE ABLE TO ACCESS THESE, AND OTHER VALUABLE INSIGHTS THROUGH app.autism.gold/admin/ AND LET THERE BE A SEPARATE ADMIN PANEL HERE NOT REQUIRING 2FA, HOWEVER DO ENABLE COOKIES HERE TOO FOR A MORE SEAMLESS LOGIN. I WANT ALL COOKIES ON THE ENTIRETY OF MY WEBSITE TO BE FULLY SECURE, SO USE THE BEST METHODS TO STORE THESE COOKIES. LET THE COOKIE USERS CAN LOG IN WITH WITHOUT PROVIDING PASSWORD BE 180 DAYS, EXCEPT IF THEY LOG IN AGAIN, THEN EXTEND THIS TIME WITH ANOTHER 180 DAYS. 
+
+
+
+Let users be able to sign in through their Solana wallets (like phantom, solflare) if they're willing to upgrade.

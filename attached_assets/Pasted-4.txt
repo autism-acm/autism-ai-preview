@@ -1,0 +1,15 @@
+Few important edits. Note all of these, and confirm extensively you've truly done them - visually, code-wise and all else.
+1. When someone clicks "Upgrade" button on mobile in their header, it doesn't show the pop-up. I want the tiers' background to show with the right background color, being BLACK. #000000. And for their texts to be either #ffffff or #ffffff with opacity. I like using 80, 90 or 64 opacities. None other than those (By the way, give this color style to desktop too.). Remove the scroll bar and close icon from mobile too. That's it for the upgrade section. 
+2. Another responsive edit: I want for "Autism capital markets" with the golden gradient to show on TABLET. It hides it on mobile so the header doesn't get overcrowded, but there's space on tablet for it, so add it back!
+3. I want users to be able to hide the side bar housing "Memory Bank, AUtism Summary, New chat", etc. Let this hide ABOVE the "Expand" icon of the menu/the bar housing "Autism capital markets". Let these columns both be collapsable by default. And let the bar housing "New chat" automatically show when a user hovers over the left side of his screen with his mouse.
+4. I've added .woff2 files of my font for you to replace TTP with. I like .woff2 more.
+5. Replace "Welcome to AUtism GOLD!" with a typewriter javascript "Hi... I'm AUlon hihi... Hi..." + let it add another Hi 4 times with intervals of anywhere between 10-30 seconds. But don't give it the | the typewriter effect usually has.
+Also give it a moving shadow orbs/bubbles behind the text of both color hexes I gave you for the gold gradient found in Welcome to AUtism GOLD, but then with 25% opacity each. Write in the code that this text as well as the orbs/shadows be removed when a user types & sends a message successfully.
+6. Give the chatbox placeholder and text #ffffff instead and let it say "Ask your AI-counterpart anything). with 'anything' italic.
+7. Add a "DiGen App" button underneath "Powered by Autism Capital Markets". It's currently an empty section surrounded by borders. It's right underneath Powered by Autism capital markets. Give it hex: 
+Border #00B487
+Text #00B487
+Background #B8E5DA
+Inline shadow: #FAF9F625
+And add the .png I gave you for it as an icon to its left.
+I want it the full size of the side bar with quite a good dynamic padding.
